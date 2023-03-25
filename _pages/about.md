@@ -17,6 +17,6 @@ I am an incoming PhD student in the MIT-WHOI Joint Program, majoring in Biologic
 *Danling Ma*, Luke Gregor, Nicolas Gruber\\
 Preprint
 
-[The Effects of Native Carbon Constituents on Soil Phosphorus Mineralization in an Illinois Floodplain Soil](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121530)\\
+[The effects of native carbon constituents on soil phosphorus mineralization in an Illinois floodplain soil](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121530)\\
 Mary Arenberg, *Danling Ma*, Yuji Arai\\
 2019 ASA-CSSA-SSSA International Annual Meeting (Poster)
