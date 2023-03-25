@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kefan Dong"
+title                    : "Danling Ma"
 title_separator          : "-"
-name                     : &name "Kefan Dong"
+name                     : &name "Danling Ma"
 description              : &description "personal description"
-url                      : https://kfdong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://danlingmaa.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kfdong/kfdong.github.io"
+repository               : "danlingmaa/danlingmaa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kefan Dong"
-  avatar           : "kfdong-profile.png"
-  bio              : "Ph.D. student, CS department, Stanford"
+  name             : "Danling Ma"
+  avatar           : "danlingma-profile.jpg"
+  bio              : "Incoming Ph.D. student, MIT-WHOI Joint Program"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=XalUZEoAAAAJ"
-  email            : "kefandong@stanford.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=FZUi7jgAAAAJ&hl=en"
+  email            : "danling@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kfdong"
+  github           : "danlingmaa"
   google_plus      :
   keybase          :
   instagram        :
