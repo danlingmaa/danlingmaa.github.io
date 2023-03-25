@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About Me
 
-I am an incoming PhD student in the MIT-WHOI Joint Program, majoring in Biological Oceanography. I feel incredibly fortunate to have the opportunity to work with [Dr. Greg Britten](https://sites.google.com/view/pemlab) as my advisor. I was a MSc student in the Institute of Biogeochemistry and Pollutant Dynamics at ETH Zürich. I am broadly interested in ocean biogeochemistry and the global carbon cycles. 
+I am an incoming PhD student in the MIT-WHOI Joint Program, majoring in Biological Oceanography. I feel incredibly fortunate to have the opportunity to work with [Dr. Greg Britten](https://sites.google.com/view/pemlab) as my advisor. I was a MSc student in the Institute of Biogeochemistry and Pollutant Dynamics at ETH Zürich. I am broadly interested in ocean biogeochemistry and the global carbon cycle. 
 
 ## Publications
 
