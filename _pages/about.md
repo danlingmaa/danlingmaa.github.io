@@ -9,13 +9,13 @@ redirect_from:
 ---
 ## About Me
 
-I am an incoming PhD student in the MIT-WHOI Joint Program, majoring in Biological Oceanography. I feel incredibly fortunate to have the opportunity to work with [Dr. Greg Britten](https://sites.google.com/view/pemlab) as my advisor. I was a MSc student in the Institute of Biogeochemistry and Pollutant Dynamics at ETH Zürich. I am broadly interested in ocean biogeochemistry and the global carbon cycle. 
+I am a first-year PhD student in the MIT-WHOI Joint Program, majoring in Biological Oceanography. I feel incredibly fortunate to have the opportunity to work with [Dr. Greg Britten](https://sites.google.com/view/pemlab) as my advisor. I was a MSc student in the Institute of Biogeochemistry and Pollutant Dynamics at ETH Zürich. I am broadly interested in ocean biogeochemistry and the global carbon cycle. 
 
 ## Publications
 
-[Observation-based trends and drivers of global surface ocean acidification over the past four decades](https://www.authorea.com/doi/full/10.22541/essoar.167870335.58952668) \\
+[Four decades of trends and drivers of global surface ocean acidification](https://doi.org/10.1029/2023GB007765) \\
 *Danling Ma*, Luke Gregor, Nicolas Gruber\\
-Preprint
+Global Biogeochemical Cycles
 
 [The effects of native carbon constituents on soil phosphorus mineralization in an Illinois floodplain soil](https://scisoc.confex.com/scisoc/2019am/meetingapp.cgi/Paper/121530)\\
 Mary Arenberg, *Danling Ma*, Yuji Arai\\
